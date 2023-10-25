@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "../../src/String/PrintString.cpp"
+#include "../../../src/PrintString/PrintStr.cpp"
 
 /** Test Naming Requirements:
  *  - Unique Name
